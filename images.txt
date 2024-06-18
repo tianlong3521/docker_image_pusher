@@ -27,4 +27,4 @@ yiwanlingyi/baota_back:lnmp59-arm
 linkease/linkease:latest
 pytorch-ubuntu
 openanolis/mysql
-moelin/1panel
+fedora
