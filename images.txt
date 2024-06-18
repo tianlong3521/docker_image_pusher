@@ -11,7 +11,7 @@ linuxserver/nextcloud
 jonnyan404/verysync
 wisdomsky/casaos-toolbox
 wordpress
- jauderho/tailscale
+bitnami/wordpress
 jeessy/ddns-go
 zerotier/zerotier
 linuxserver/qbittorrent
